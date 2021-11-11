@@ -1,0 +1,14 @@
+//
+// Created by Binmex on 11/11/2021.
+//
+
+#ifndef PRACTICAASOCIASIONES_GENERO_H
+#define PRACTICAASOCIASIONES_GENERO_H
+
+
+enum class Genero {
+    MASCULINO,FEMENINO
+};
+
+
+#endif //PRACTICAASOCIASIONES_GENERO_H
